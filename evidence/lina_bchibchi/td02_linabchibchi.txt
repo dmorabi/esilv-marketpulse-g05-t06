@@ -1,3 +1,4 @@
+## 1. Exécution du programme MarketPulse : Vérification du bon fonctionnement du script Python après l'intégration des données CSV et JSON 
 @lina-042 ➜ /workspaces/esilv-marketpulse-g05-t06 (lina-bchibchi) $ python src/main.py
 === MarketPulse ===
 
@@ -16,6 +17,8 @@ SP500 - S&P 500
 Observations : 21
 First close  : 6600.00
 Last close   : 6742.00
+
+## 2. État de la branche Git : Vérification de l'environnement de travail et des branches locales :
 
 @lina-042 ➜ /workspaces/esilv-marketpulse-g05-t06 (lina-bchibchi) $ git branch
 * lina-bchibchi
